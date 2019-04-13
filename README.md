@@ -1,2 +1,0 @@
-# Ripple---CFG
-Ripple Website
